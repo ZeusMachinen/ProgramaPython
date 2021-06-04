@@ -3,4 +3,4 @@
 - este proyecto fue realizado para la clase de fundamento de programacion
 - sebastina fonseca cifuentes
 - ingenieria de sistemas 
-- Repositorio (https://github.com/ZeusMachinen/ProgramaPython)
+- Repositorio (https://github.com/ZeusMachinen/ProgramaPython).
